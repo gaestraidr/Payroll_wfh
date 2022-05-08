@@ -1,4 +1,4 @@
-# Rekamedis_Solus
+# Payroll_wfh
  Web-Based Payroll with Absensi Check-In for WFO & WFH, with Izin feature and track Absensi-Gap by each Pegawai.
 
  This application is solely a personal project that involve standard operational procedure within checkin protocol commonly found in any company. Built with PHP using Laravel Framework. Designed with Blade.
